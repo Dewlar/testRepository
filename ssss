@@ -1,0 +1,41 @@
+[33mcommit 8c1cfcc31cabb9c9a9940970bc21a59e0c2a7439[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Andrei Markouski <insawm@gmail.com>
+Date:   Sun Jul 25 20:09:45 2021 +0300
+
+    add README.md file to project
+
+[33mcommit d3021004cf59403a2cf697abc8dda4123cf9396c[m
+Author: Andrei Markouski <insawm@gmail.com>
+Date:   Sun Jul 25 19:22:31 2021 +0300
+
+    VSCode testing
+
+[33mcommit ac8512e7333f11a908cbc75ce5257fe3b23cc202[m
+Author: Andrei Markouski <insawm@gmail.com>
+Date:   Sun Jul 25 15:39:28 2021 +0300
+
+    change file1.txt   add str sdf
+
+[33mcommit 0e45186ab56ec69d887002cce0e3a025db9ea140[m
+Author: Andrei Markouski <insawm@gmail.com>
+Date:   Sun Jul 25 15:25:45 2021 +0300
+
+    return file1.txt its original state
+
+[33mcommit a2b6536551e27f60160acb23d02d4ee152b2acbf[m
+Author: Andrei Markouski <insawm@gmail.com>
+Date:   Sun Jul 25 14:32:18 2021 +0300
+
+    change file2
+
+[33mcommit a5e9c3f5f86318ce6f62bd8f0cfa2bedf9ca6050[m
+Author: Andrei Markouski <insawm@gmail.com>
+Date:   Sun Jul 25 13:43:31 2021 +0300
+
+    modify file1.txt and add file2
+
+[33mcommit a766d85e69aa154241728324ea7182fbdb07eaa8[m
+Author: Andrei Markouski <insawm@gmail.com>
+Date:   Sun Jul 25 13:32:35 2021 +0300
+
+    add file1.txt
