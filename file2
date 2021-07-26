@@ -3,3 +3,5 @@ some oSSther line123S
 
 d
 test SSH try 2
+
+newFeature - делаем комит основной ветки, когда уже есть комит в ветке newFeature2
